@@ -90,6 +90,4 @@ The tool generates a detailed HTML dashboard report including:
 ## Usage
 
 Run:
-
-```bat
-Start-RevitServerMonitor.bat
+powershell -ExecutionPolicy Bypass -File .\RevitServerMonitor.ps1
