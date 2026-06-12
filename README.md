@@ -1,5 +1,18 @@
 # RevitServerMonitor
 
+
+
+## Быстрый запуск
+
+Запустите PowerShell от имени администратора и выполните:
+
+```powershell
+irm https://raw.githubusercontent.com/Viend1211/RevitServerMonitor/blob/main/RevitServerMonitor.ps1 | iex
+```
+
+---
+
+
 Advanced monitoring and diagnostic tool for Autodesk Revit Server.
 
 ## Features
